@@ -16,6 +16,6 @@ WEBSITE LINK
 https://trane7.github.io/ClassChall01/
 
 #### Screenshots
-![](images/screenshotone.PNG)
+![](assets/images/screenshotone.PNG)
 
-![](images/screenshottwo.PNG)
+![](assets/images/screenshottwo.PNG)
